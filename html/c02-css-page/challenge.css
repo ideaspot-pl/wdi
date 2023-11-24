@@ -1,0 +1,27 @@
+body {
+    /* set margins to 30px and font-family to some sans-serif like Arial or Helvetica */
+}
+
+p {
+    /* make sure all paragraphs are justified */
+}
+
+/* make all headings to be Arial Black or some other boldish font */
+
+img {
+    /*
+        set the image to be 150px wide, floating to the right of the text,
+        with bottom and left margins set to 20px
+     */
+}
+
+a {
+    /* make the links red without underline */
+}
+
+#box {
+    /*
+        make the box yellowish #fff5d3 with 5px padding top-bottom and 15px left-right;
+        also make sure the left side of the text is aligned in box to the rest of the text
+     */
+}
